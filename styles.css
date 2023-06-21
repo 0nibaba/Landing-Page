@@ -33,7 +33,7 @@ a {
 .top-header {
     display: flex;
     align-items: center;
-    gap: 500px;
+    gap: 400px;
 }
 
 .bottom-header {
